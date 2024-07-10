@@ -5,13 +5,13 @@ En este emocionante desafío de programación, creé mi propio catálogo de libr
 Para comenzar, es necesario tener un ambiente Java configurado. Asegúrate de tener instalada la última versión del JDK y un IDE como IntelliJ IDEA o Eclipse. También es útil tener Maven para gestionar las dependencias del proyecto.
 
 <section id="state">
-<h2>✔️ Estado del proyecto</h2>
+<h2>✔Estado del proyecto</h2>
 <h4 align="center">
 :checkered_flag: Proyecto finalizado :checkered_flag:
 </h4>
 </section>
 <section id="functions">
-<h2>🔨 Demostración de funciones</h2>
+<h2>Demostración de funciones</h2>
 <ol>
 <li>Búsqueda de libro por título.</li>
 <p>Realiza una consulta por título del libro a la API GUTENDEX del libro de interés del usuario, si lo encuentra lo agrega a la base de datos.</p>
@@ -30,7 +30,7 @@ Para comenzar, es necesario tener un ambiente Java configurado. Asegúrate de te
 </ol>
 </section>
 <section id="projects">
-<h2>✌️ Tecnologías utilizadas</h2>
+<h2> Tecnologías utilizadas</h2>
 <p>Las tecnologías utilizadas en el proyecto:</p>
 <ul>
 <li>Java</li>
@@ -40,14 +40,6 @@ Para comenzar, es necesario tener un ambiente Java configurado. Asegúrate de te
 <li>API de Gutendex</li>
 </ul>
 </section>
-<section id="author">
-<h2>🧔 Autor del proyecto</h2>
-<h3 style="padding: 0; margin: 0">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHloGjvQT61AIkRXNYG18j8G8_6Sm5yblJwh5bUuMWg&s" alt="Imagen del autor, gato sonriente" width="50px" height="50px" style="object-fit: cover"/>
-</h3>
-<a href="https://github.com/KonectaPe/KonectaPe" target="_blank">
-Deyver JM
-</a>
-</section>
+
 </main>
 
