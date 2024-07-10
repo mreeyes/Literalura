@@ -1,50 +1,9 @@
-<header style="display: flex; flex-direction: column; justify-content: center; align-items: center">
-<h1 align="center">LiterBook</h1>
-<img src="./images/literbook.jpeg" style="object-fit: cover; object-position: center; width: 300px;" alt="Logo principal de LiterBook"/>
-</header>
-<main>
-<ul style="display:flex; flex-direction: column; gap: .5rem; list-style: none; padding: 0; margin-top: 50px">
-<li>
-<a href="#description" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
-<span>👍</span> 
-<span>Descripción del proyecto</span>
-</a>
-</li>
-<li>
-<a href="#state" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
-<span>👍</span> 
-<span>Estado del proyecto</span>
-</a>
-</li>
-<li>
-<a href="#functions" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
-<span>👍</span> 
-<span>Demostración de funciones</span>
-</a>
-</li>
-<li>
-<a href="#projects" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
-<span>👍</span> 
-<span>Acceso al proyecto</span>
-</a>
-</li>
-<li>
-<a href="#technologies" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
-<span>👍</span> 
-<span>Tecnologías utilizadas</span>
-</a>
-</li>
-<li>
-<a href="#author" style="display: inline; align-items: center; gap: .5rem; text-decoration: none">
-<span>👍</span> 
-<span>Autor del proyecto</span>
-</a>
-</li>
-</ul>
-<section id="description">
-<h2>🚀 Descripción del proyecto</h2>
-<p>Este proyecto es un desafío propuesto por Alura Latam Challenges, nuestro catálogo de libros LiterBook realiza solicitudes a una API de libros, manipula datos JSON, los guarda en una base de datos y, finalmente, filtra y muestra los libros y autores de interés. Además como plus muestra algunas estadísticas de los libros más descargados</p>
-</section>
+# LiterAlura
+
+En este emocionante desafío de programación, creé mi propio catálogo de libros: el LiterAlura. Aprendí a realizar solicitudes a una API de libros, a manipular datos JSON, guardarlos en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.
+
+Para comenzar, es necesario tener un ambiente Java configurado. Asegúrate de tener instalada la última versión del JDK y un IDE como IntelliJ IDEA o Eclipse. También es útil tener Maven para gestionar las dependencias del proyecto.
+
 <section id="state">
 <h2>✔️ Estado del proyecto</h2>
 <h4 align="center">
@@ -69,18 +28,8 @@
 <li>Salir del programa</li>
 <p>Finaliza el programa.</p>
 </ol>
-<img src="./images/literbook.gif" alt="Funcionalidades de literbook, libros consumo de API"/>
 </section>
 <section id="projects">
-<h2>📁 Acceso al proyecto</h2>
-<p>Puedes acceder al proyecto siguiendo los pasos:</p>
-<ul>
-<li>Clona el repositorio con git clone https://github.com/KonectaPe/literalura</li>
-<li>Descarga, instala y configura PostgreSQL</li>
-<li>Ejecuta el main y verás la magia</li>
-</ul>
-</section>
-<section id="technologies">
 <h2>✌️ Tecnologías utilizadas</h2>
 <p>Las tecnologías utilizadas en el proyecto:</p>
 <ul>
